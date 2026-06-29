@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+codegen/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
